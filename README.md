@@ -81,3 +81,16 @@ Here are a few examples you'll find in this repository:
 3. Standardizing and normalizing numerical features.
 4. Encoding categorical variables using one-hot encoding or label encoding.
 5. Handling date and time data
+
+ formats.
+6. Transforming skewed distributions using logarithmic or power transformations.
+
+Feel free to explore the examples and use them as a starting point for your own projects.
+
+## Contributing
+
+Contributions to this repository are welcome! If you have any suggestions, improvements, or additional examples related to data cleaning and transformation, please feel free to open an issue or submit a pull request. Let's make this resource even more valuable for the community.
+
+## License
+
+The content of this repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and resources available in this repository for both personal and commercial purposes. See the [LICENSE](LICENSE) file for more details.
