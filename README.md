@@ -80,9 +80,7 @@ Here are a few examples you'll find in this repository:
 2. Removing duplicate records from a dataset.
 3. Standardizing and normalizing numerical features.
 4. Encoding categorical variables using one-hot encoding or label encoding.
-5. Handling date and time data
-
- formats.
+5. Handling date and time data formats.
 6. Transforming skewed distributions using logarithmic or power transformations.
 
 Feel free to explore the examples and use them as a starting point for your own projects.
